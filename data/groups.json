@@ -1,24 +1,5 @@
 [
   {
-    "id": "generative-music-modular-eurorack-synthesizers-hub-reddit-1",
-    "title": "r/edmproduction Electronic Producers",
-    "platform": "Reddit",
-    "category": "Music Production",
-    "memberCount": "390,000+ members",
-    "description": "Synthesis design, sidechain compression, EQ separation, sub-bass mixdown, and mastering plugins.",
-    "joinUrl": "https://www.reddit.com/r/edmproduction/",
-    "tags": [
-      "edm",
-      "synthesis",
-      "mixing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": true,
-    "lastUpdated": "2026-11-18"
-  },
-  {
     "id": "generative-music-modular-eurorack-synthesizers-hub-reddit-2",
     "title": "r/synthesizers Hardware & Modular",
     "platform": "Reddit",
@@ -34,7 +15,27 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": false
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
+    "id": "generative-music-modular-eurorack-synthesizers-hub-reddit-1",
+    "title": "r/edmproduction Electronic Producers",
+    "platform": "Reddit",
+    "category": "Music Production",
+    "memberCount": "390,000+ members",
+    "description": "Synthesis design, sidechain compression, EQ separation, sub-bass mixdown, and mastering plugins.",
+    "joinUrl": "https://www.reddit.com/r/edmproduction/",
+    "tags": [
+      "edm",
+      "synthesis",
+      "mixing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": false,
+    "lastUpdated": "2026-11-18"
   },
   {
     "id": "generative-music-modular-eurorack-synthesizers-hub-reddit-3",
